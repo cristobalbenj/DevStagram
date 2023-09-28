@@ -9,4 +9,4 @@ const dropzone = new Dropzone('#dropzone', {
     dictRemoveFile: 'Borrar archivo',
     maxFiles: 1,
     uploadMultiple: false,
-});
+}); 
