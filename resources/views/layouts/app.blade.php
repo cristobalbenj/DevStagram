@@ -31,6 +31,7 @@
                             <button class="font-bold uppercase text-gray-600 text-sm">Cerrar sesion</button>
                         </form>
                     </nav>
+                    
                 @endauth
 
                 @guest
